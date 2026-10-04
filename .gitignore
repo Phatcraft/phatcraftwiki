@@ -1,0 +1,13 @@
+# PhatcraftWiki .gitignore
+
+# File config của server
+config.h
+
+# Folder file thực thi
+/bin
+
+# File database
+*.sqlite
+
+# File log
+*.log
