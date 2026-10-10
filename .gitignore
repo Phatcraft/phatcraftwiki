@@ -1,0 +1,14 @@
+# PHATCRAFTWIKI .gitignore
+# File này lưu các file git không cần theo dõi
+
+# Folder chứa file binary
+/bin
+
+# Folder chứa log của server
+/logs
+
+# File config
+*.cfg
+
+# Folder database của server
+/database
