@@ -1,0 +1,15 @@
+# PHATCRAFTWIKI .gitignore
+# File lưu các file / folder git không cần track
+
+# Folder chứa file thực thi
+/bin
+
+# File config của server
+*.conf
+*.cfg
+
+# File sqlite database
+*.sqlite
+
+# File log server
+*.log
